@@ -1,10 +1,10 @@
 <?php /**
  * Plugin Name: Jetpack Widget Visibility Additional Fields - WPML Language
- * Plugin URI: http://caavadesign.com
+ * Plugin URI: https://github.com/drrobotnik/jetpack-widget-visibility-wpml-lang
  * Description: Add the ability to add WPML language options to jetpacks visibility widget
  * Version: 1.0.0
  * Author: Brandon lavigne
- * Author URI: http://caavadesign.com
+ * Author URI: https://github.com/drrobotnik
  * License: GPL2
  */
 
