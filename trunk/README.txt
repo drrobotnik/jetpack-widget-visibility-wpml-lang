@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin adds WPML Language options to the Jetpack Widget Visiblity module.
+This plugin adds WPML Language options to the Jetpack Widget Visibility module.
 
 == Description ==
 
-The Jetpack visiblity module is appended to the bottom of all widgets (including 3rd parties). This plugin adds any active WPML language options to the list so you can have widgets appear for specific languages. For example, show french translated text widget, or a french twitter account for the French translation of your website.
+The Jetpack visibility module is appended to the bottom of all widgets (including 3rd parties). This plugin adds any active WPML language options to the list so you can have widgets appear for specific languages. For example, show french translated text widget, or a french twitter account for the French translation of your website.
 
 == Installation ==
 
